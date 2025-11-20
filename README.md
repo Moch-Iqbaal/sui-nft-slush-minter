@@ -1,4 +1,4 @@
-Sui NFT Uploader — Slush Wallet Integration
+ # Sui NFT Uploader — Slush Wallet Integration
 
 A complete implementation of an NFT smart contract on Sui Blockchain, combined with a simple DApp flow for:
 
